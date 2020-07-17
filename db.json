@@ -1,0 +1,256 @@
+{
+  "agents": [
+    {
+      "id": "1",
+      "name": "Norberto Aufderhar"
+    },
+    {
+      "id": "2",
+      "name": "Kailyn Parker"
+    },
+    {
+      "id": "3",
+      "name": "Mitchell Nienow"
+    },
+    {
+      "id": "4",
+      "name": "Estefania Mohr"
+    },
+    {
+      "id": "5",
+      "name": "Efren Schmidt"
+    },
+    {
+      "id": "6",
+      "name": "Gregoria Kuhic"
+    },
+    {
+      "id": "7",
+      "name": "Mr. Alice Crooks"
+    },
+    {
+      "id": "8",
+      "name": "Giovani Heidenreich MD"
+    },
+    {
+      "id": "9",
+      "name": "Mrs. Amelia Schroeder"
+    },
+    {
+      "id": "10",
+      "name": "Mrs. Eladio Welch"
+    },
+    {
+      "id": "11",
+      "name": "Geoffrey Considine"
+    },
+    {
+      "id": "12",
+      "name": "Osbaldo Dickinson"
+    },
+    {
+      "id": "13",
+      "name": "Haylie Hettinger"
+    },
+    {
+      "id": "14",
+      "name": "Micah Okuneva"
+    },
+    {
+      "id": "15",
+      "name": "Marge Lockman"
+    },
+    {
+      "id": "16",
+      "name": "Gilbert Hoeger MD"
+    },
+    {
+      "id": "17",
+      "name": "Damien Kozey Jr."
+    },
+    {
+      "id": "18",
+      "name": "Maci Kilback"
+    },
+    {
+      "id": "19",
+      "name": "Dr. Adela Windler"
+    },
+    {
+      "id": "20",
+      "name": "Janessa Blick"
+    },
+    {
+      "id": "21",
+      "name": "Maymie Luettgen"
+    },
+    {
+      "id": "22",
+      "name": "Colten Marks"
+    },
+    {
+      "id": "23",
+      "name": "Miss Charity Purdy"
+    },
+    {
+      "id": "24",
+      "name": "Courtney Harvey"
+    },
+    {
+      "id": "25",
+      "name": "Lorenza Gerlach"
+    },
+    {
+      "id": "26",
+      "name": "Regan Kertzmann"
+    },
+    {
+      "id": "27",
+      "name": "Adela Mayert Jr."
+    },
+    {
+      "id": "28",
+      "name": "Sanford Renner"
+    }
+  ],
+  "tickets": [
+    {
+      "subject": "seat allocation",
+      "status": "open",
+      "agentID": "1",
+      "contactID": "1",
+      "id": "-FJKv3_"
+    },
+    {
+      "subject": "app dev",
+      "status": "closed",
+      "agentID": "26",
+      "contactID": "6",
+      "id": "ydpOpqD"
+    },
+    {
+      "subject": "remove",
+      "status": "closed",
+      "agentID": "10",
+      "contactID": "11",
+      "id": "KhIvZuf"
+    },
+    {
+      "subject": "plan floor",
+      "status": "pending",
+      "agentID": "4",
+      "contactID": "13",
+      "id": "cdobxf6"
+    }
+  ],
+  "customers": [
+    {
+      "id": "1",
+      "createdAt": "2020-07-14T03:21:29.350Z",
+      "name": "Carlos Lebsack",
+      "issue": "issue 1"
+    },
+    {
+      "id": "2",
+      "createdAt": "2020-07-14T01:23:10.060Z",
+      "name": "Alexie Graham",
+      "issue": "issue 2"
+    },
+    {
+      "id": "3",
+      "createdAt": "2020-07-14T10:08:52.370Z",
+      "name": "Daphnee Renner Jr.",
+      "issue": "issue 3"
+    },
+    {
+      "id": "4",
+      "createdAt": "2020-07-14T07:41:56.857Z",
+      "name": "Arthur Yundt",
+      "issue": "issue 4"
+    },
+    {
+      "id": "5",
+      "createdAt": "2020-07-14T06:20:35.054Z",
+      "name": "Peyton Bartoletti",
+      "issue": "issue 5"
+    },
+    {
+      "id": "6",
+      "createdAt": "2020-07-14T08:01:10.099Z",
+      "name": "Elyssa Kris",
+      "issue": "issue 6"
+    },
+    {
+      "id": "7",
+      "createdAt": "2020-07-13T21:33:34.726Z",
+      "name": "Ben Fadel",
+      "issue": "issue 7"
+    },
+    {
+      "id": "8",
+      "createdAt": "2020-07-14T03:52:04.047Z",
+      "name": "Laurel Lemke",
+      "issue": "issue 8"
+    },
+    {
+      "id": "9",
+      "createdAt": "2020-07-14T01:47:00.973Z",
+      "name": "Verner Barrows",
+      "issue": "issue 9"
+    },
+    {
+      "id": "10",
+      "createdAt": "2020-07-14T16:31:39.935Z",
+      "name": "Cristina Feest",
+      "issue": "issue 10"
+    },
+    {
+      "id": "11",
+      "createdAt": "2020-07-14T07:01:49.287Z",
+      "name": "Felipe Haley III",
+      "issue": "issue 11"
+    },
+    {
+      "id": "12",
+      "createdAt": "2020-07-14T00:38:38.844Z",
+      "name": "Jewell Hintz",
+      "issue": "issue 12"
+    },
+    {
+      "id": "13",
+      "createdAt": "2020-07-13T21:36:38.587Z",
+      "name": "Leone Altenwerth",
+      "issue": "issue 13"
+    },
+    {
+      "id": "14",
+      "createdAt": "2020-07-14T17:32:06.320Z",
+      "name": "Trystan Funk",
+      "issue": "issue 14"
+    },
+    {
+      "id": "15",
+      "createdAt": "2020-07-14T00:16:27.588Z",
+      "name": "Beaulah Bogan",
+      "issue": "issue 15"
+    },
+    {
+      "id": "16",
+      "createdAt": "2020-07-14T11:13:35.050Z",
+      "name": "Dessie Hoeger DDS",
+      "issue": "issue 16"
+    },
+    {
+      "id": "17",
+      "createdAt": "2020-07-14T10:36:26.175Z",
+      "name": "Dawson Berge",
+      "issue": "issue 17"
+    },
+    {
+      "id": "18",
+      "createdAt": "2020-07-14T19:25:54.030Z",
+      "name": "Cloyd Rath",
+      "issue": "issue 18"
+    }
+  ]
+}
